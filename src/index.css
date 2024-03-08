@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+
+.links {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+img {
+  height: 20rem;
+  margin: 0 auto;
+}
+
+.food {
+  display: flex;
+  flex-direction: column-reverse;
+}
